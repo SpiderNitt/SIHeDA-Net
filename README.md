@@ -2,7 +2,7 @@
 
 # SIHeDA-Net: Sensor to Image Heterogeneous Domain Adaptation Network
 
-**_To appear at [MIDL 2022](https://2022.midl.io/)_**
+**_Accepted at [MIDL 2022](https://2022.midl.io/)_**
 
 <img src="assets/SIHeDA.png">
 
