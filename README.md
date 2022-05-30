@@ -61,7 +61,6 @@ To evaluate my model, run:
 python eval.py --model-file mymodel.pth --benchmark imagenet
 ```
 
->📋  Describe how to evaluate the trained models on benchmarks reported in the paper, give commands that produce the results (section below).
 
 ## Pre-trained Models
 
@@ -69,7 +68,6 @@ You can download pretrained models here:
 
 - [SIHeDA-Net](https://drive.google.com/mymodel.pth) trained using [Sign-MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist2) for Domain-B and custom sensor dataset with `mean = (-24, 23)` and `spread = 0.5` for Domain-A
 
->📋  Give a link to where/how the pretrained models can be downloaded and how they were trained (if applicable).  Alternatively you can have an additional column in your results table with a link to the models.
 
 ## Results
 
@@ -82,7 +80,6 @@ Our model achieves the following performance on:
 | ------------------      |---------------- |
 | Baseline - Simple ANN   |     38.13%      |
 | Ours - SIHeDA-Net       |     **70.83%**  |
-
 
 
 ## Citation
