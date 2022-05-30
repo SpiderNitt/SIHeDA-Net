@@ -73,7 +73,7 @@ You can download pretrained models here:
 
 Our model achieves the following performance on:
 
-### Prediciton accuracy for ASL classfication
+### Prediction accuracy for ASL alphabet classfication
 > Using [Sign-MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist2) as the Domain-B dataset
 
 | Model                   | Top 1 Accuracy  |
