@@ -87,14 +87,16 @@ Our model achieves the following performance on:
 If you found our work interesting for your own research, please use the following BibTeX entry.
 
 ```bibtex
+
 @inproceedings{
-    s2022sihedanet,
-    title={{SIH}e{DA}-Net: Sensor to Image Heterogeneous Domain Adaptation Network},
-    author={Vignesh S and Ishikaa Lunawat and S P Sharan},
-    booktitle={Medical Imaging with Deep Learning},
-    year={2022},
-    url={https://openreview.net/forum?id=zVzeKdlCMWX}
+lunawat2022sihedanet,
+title={{SIH}e{DA}-Net: Sensor to Image Heterogeneous Domain Adaptation Network},
+author={Ishikaa Lunawat and Vignesh S and S P Sharan},
+booktitle={Medical Imaging with Deep Learning},
+year={2022},
+url={https://openreview.net/forum?id=zVzeKdlCMWX}
 }
+
 ```
 ## Contact
 For any queries, feel free to contact the authors or raise an issue.
